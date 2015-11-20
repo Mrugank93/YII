@@ -3,13 +3,11 @@
 <head>
 <title> test</title>
 </head>
-
 <body>
 <form action='<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>' method='post'>
 <input name='email' type='input'>
 <input type='submit'>
 </form>
-
 <?php
 $email = '';
 
