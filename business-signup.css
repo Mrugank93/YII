@@ -1,0 +1,69 @@
+@import url(http://fonts.googleapis.com/css?family=Karla:400,700);
+
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-url: http://api.thumbr.it/whitenoise-361x370.png?background=dfdfe6ff&noise=ffffff&density=10&opacity=15
+    background: repeat-x repeat-y;
+    font-family: 'Karla', sans-serif;
+}
+
+#navbar
+{
+    width: 86%;
+    display: inline-block;
+    text-align: right;
+}
+
+#navbar div
+{
+    display: inline-block;
+    margin-right: 1%;
+    padding: 1%;
+}
+
+#navbar div a
+{
+    color: gray;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: 700;
+    width: 100%;
+    height: 100%;
+}
+
+#navbar div a:hover
+{
+    color: limegreen;
+}
+
+#benefits td
+{
+    display: inline-block;
+    color: white;
+    padding: 1%;
+    margin: auto 0 auto 0;
+    width: 250px;
+    height: 250px;
+    margin-right: 10px;
+    background: #f9b11f;
+    background: -webkit-linear-gradient(#f68c10, #f9b11f); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#f68c10, #f9b11f); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#f68c10, #f9b11f); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#f68c10, #f9b11f); /* Standard syntax */
+}
+
+#email_button
+{
+    border: solid 1px #C75E02;
+    background: #f4a10c;
+    background: -webkit-linear-gradient(#eb6f00, #ffc134); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#eb6f00, #ffc134); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#eb6f00, #ffc134); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#eb6f00, #ffc134); /* Standard syntax */
+}

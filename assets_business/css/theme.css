@@ -1,0 +1,72 @@
+#business-admin{}
+#business-admin h3{ text-align:center;}
+#business-admin h2{ font-size:14px; color:#4c4c4c; margin:5px 0;}
+#business-admin .span3{ border:1px solid #E5E5E5; padding:10px; width:27%; min-height: 243px; margin-top:20px; margin-bottom:10px;}
+#business-admin .span4{ background:#4D4D4D; padding:7px; width:18%; margin-top:20px; margin-bottom:10px;}
+#business-admin .span5{ margin-top:20px; margin-bottom:10px;}
+#business-admin .readall{ text-align:right;}
+#business-admin .reviews-box{ background:url(img/reviews-rating.png) no-repeat right top; margin-top:10px; margin-bottom:10px;}
+.clear{ clear:both;}
+
+
+.divDemoBody  {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.divDemoBody p {
+    font-size: 18px;
+    line-height: 140%;
+    padding-top: 12px;
+}
+.divDialogElements input {
+    font-size: 18px;
+    padding: 3px;
+    height: 32px;
+    width: 490px;
+}
+
+.divDialogElements textarea {
+    margin-top: 12px;
+    font-size: 14px;
+    padding: 3px;
+    height: 32px;
+    width: 496px;
+}
+.divButton {
+    padding-top: 12px;
+    float: right;
+}
+
+.modelForm{
+    margin: 0 0 20px;
+}
+.loadingDiv
+{
+    margin-left:20px ;
+}
+
+#business-admin .banner{
+    border: 0 none;
+    height: 158px;
+    max-width: 750px;
+}
+.header_Div1 {
+    padding-left: 40%;
+    padding-top: 58px;
+    width: 50%;
+
+}
+
+.header_Div2 {
+    padding-left: 20%;
+    padding-top: 125px;
+
+
+}
+
+#upload_image
+{
+    margin-right: 6px ;
+}

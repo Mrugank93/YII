@@ -1,0 +1,43 @@
+#deals .box1{ float:left; background:url(offerdeal1.png) no-repeat center top; text-align:center; width:186px; height:486px; margin-right:15px;}
+#deals .box1 h2{ font-family:arial; font-size:20px; color:#EAEAEA; font-weight:bold;  padding:0px; text-transform:none }
+#deals .offerimage{ text-align:center; margin-top: -3px;}
+#deals .offername{ font-family:arial; font-size:11px; color:#EAEAEA; font-weight:bold; background:url(line.png) no-repeat bottom center; padding:9px 0;}
+#deals .offercompany{ font-family:arial; font-size:11px; color:#EAEAEA; font-weight:bold; background:url(line.png) no-repeat bottom center; padding:8px 0;}
+
+#deals .offerpriceSample{ font-family:arial; font-size:20px; color:#EAEAEA; font-weight:bold; padding:12px 0;}
+
+#deals .box1 .offerpriceSample .regular{ text-decoration:line-through; margin-right:10px; color:#53A6CD;}
+#deals .box1 .offerpriceSample .sale{ margin-right:10px;}
+
+#deals .box1 .offerprice span{ text-decoration:line-through; margin-right:10px; color:#53A6CD;}
+
+
+#deals .buynow{ text-align:center;}
+
+#deals .box1 .buynow a{ font-family:arial; font-size:18px; color:#EAEAEA; font-weight:bold; text-decoration:none; display:inline-table; padding-top:10px;
+    width:128px; height:30px; background:#3A7AB1;
+    background:  -moz-linear-gradient( -90deg, rgba(83,166,205,1), rgba(36,82,152,1) );
+    background:  -webkit-gradient(linear, left top, left bottom, from(rgb(83,166,205)), to(rgb(36,82,152)));
+    background:  -webkit-linear-gradient( -90deg, rgba(83,166,205,1), rgba(36,82,152,1) );
+    background:  -o-linear-gradient( -90deg, rgba(83,166,205,1), rgba(36,82,152,1) );
+    background:  linear-gradient( to bottom, rgba(83,166,205,1), rgba(36,82,152,1) );
+    -webkit-border-radius: 8px 8px 0px 0px;
+    -moz-border-radius: 8px 8px 0px 0px;
+    -ms-border-radius: 8px 8px 0px 0px;
+    border-radius: 8px 8px 0px 0px;}
+
+#deals .box1 .buynow a:hover{	background:#50A1CA;
+    background:  -moz-linear-gradient( -90deg, rgba(36,82,152,1), rgba(83,166,205,1) );
+    background:  -webkit-gradient(linear, left top, left bottom, from(rgb(36,82,152)), to(rgb(83,166,205)));
+    background:  -webkit-linear-gradient( -90deg, rgba(36,82,152,1), rgba(83,166,205,1) );
+    background:  -o-linear-gradient( -90deg, rgba(36,82,152,1), rgba(83,166,205,1) );
+    background:  linear-gradient( to bottom, rgba(36,82,152,1), rgba(83,166,205,1) );
+    -webkit-border-radius: 8px 8px 0px 0px;
+    -moz-border-radius: 8px 8px 0px 0px;
+    -ms-border-radius: 8px 8px 0px 0px;
+    border-radius: 8px 8px 0px 0px;}
+
+.controls .hasDatepicker
+{
+    width: 92%;
+}
