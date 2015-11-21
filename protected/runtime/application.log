@@ -1,0 +1,1513 @@
+2015/11/10 06:12:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/about.html
+---
+2015/11/10 06:12:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/services.html
+---
+2015/11/10 06:12:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/about.html
+---
+2015/11/10 06:12:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/contact.html
+---
+2015/11/10 06:12:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/google.com
+---
+2015/11/10 06:44:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/services.html
+---
+2015/11/10 09:52:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('index.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('index.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.html')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.html
+---
+2015/11/10 11:01:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/about.html')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/about.html
+---
+2015/11/10 11:01:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/contact.ht...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/contact.html
+---
+2015/11/10 11:01:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/google.com')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/google.com
+---
+2015/11/10 11:56:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "services.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('services.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('services.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/services.h...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/services.html
+---
+2015/11/10 17:35:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/index.html
+---
+2015/11/10 21:08:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/projects.html
+---
+2015/11/10 23:40:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/contact.html
+---
+2015/11/11 01:29:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/about.html
+---
+2015/11/11 02:06:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "google.com".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('google.com')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('google.com')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/google.com')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/google.com
+---
+2015/11/11 09:43:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/services.html
+---
+2015/11/11 09:58:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "google.com".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('google.com')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('google.com')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/forget/goo...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/user/forget/google.com
+---
+2015/11/11 12:13:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/about.html
+---
+2015/11/11 12:13:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/contact.html
+---
+2015/11/11 12:13:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/google.com
+---
+2015/11/11 12:13:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/index.html
+---
+2015/11/11 12:13:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/projects.html
+---
+2015/11/11 12:13:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/services.html
+---
+2015/11/11 12:25:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/google.com
+---
+2015/11/11 12:40:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/kids/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/kids...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/kids/contact.html
+---
+2015/11/11 14:25:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('contact.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('contact.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/contact.ht...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/contact.html
+---
+2015/11/11 15:21:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/about.html')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/about.html
+---
+2015/11/11 16:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/kids/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/kids...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/kids/services.html
+---
+2015/11/11 17:53:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/services.html
+---
+2015/11/11 21:44:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/kids/projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/kids...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/kids/projects.html
+---
+2015/11/12 03:24:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/google.com
+---
+2015/11/12 04:20:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/about.html
+---
+2015/11/12 09:17:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/services.html
+---
+2015/11/12 16:09:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/kids/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/kids...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/kids/about.html
+---
+2015/11/13 04:08:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/about.html
+---
+2015/11/13 04:08:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/services.html
+---
+2015/11/13 04:08:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/about.html
+---
+2015/11/13 04:08:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/contact.html
+---
+2015/11/13 04:08:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/google.com
+---
+2015/11/13 09:36:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/about.html
+---
+2015/11/13 12:30:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/services.html
+---
+2015/11/13 14:29:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/services.html
+---
+2015/11/13 14:59:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/index.html
+---
+2015/11/13 15:14:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/projects.html
+---
+2015/11/13 18:07:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/index.html
+---
+2015/11/13 18:22:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('index.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('index.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.html')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.html
+---
+2015/11/14 05:52:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/about.html
+---
+2015/11/14 06:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('projects.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('projects.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/projects.h...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/projects.html
+---
+2015/11/14 09:09:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/contact.html
+---
+2015/11/14 19:18:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/contact.html
+---
+2015/11/14 19:18:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/google.com
+---
+2015/11/14 19:18:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/home/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/home...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/home/index.html
+---
+2015/11/14 19:43:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/google.com')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/google.com
+---
+2015/11/15 08:26:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/projects.html
+---
+2015/11/15 08:27:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/about.html
+---
+2015/11/15 08:27:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/google.com
+---
+2015/11/15 08:28:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/index.html
+---
+2015/11/15 08:29:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/contact.html
+---
+2015/11/15 08:30:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/services.html
+---
+2015/11/15 16:41:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/contact.html
+---
+2015/11/15 16:41:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/about.html
+---
+2015/11/15 16:42:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/index.html
+---
+2015/11/15 16:43:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/google.com".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/google.com
+---
+2015/11/15 16:44:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/projects.html
+---
+2015/11/15 16:45:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/services.html
+---
+2015/11/16 09:31:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/index.html
+---
+2015/11/16 09:32:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/projects.html
+---
+2015/11/16 09:32:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/services.html
+---
+2015/11/16 11:48:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/about.html')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/about.html
+---
+2015/11/16 11:48:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/services.h...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/services.html
+---
+2015/11/16 11:48:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/contact.ht...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/contact.html
+---
+2015/11/16 11:48:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "about.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('about.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('about.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/about.html')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/about.html
+---
+2015/11/16 11:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "services.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('services.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('services.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/services.h...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/services.html
+---
+2015/11/16 11:48:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('contact.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('contact.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/contact.ht...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/contact.html
+---
+2015/11/16 11:48:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/about.html
+---
+2015/11/16 11:48:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/services.html
+---
+2015/11/16 11:48:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/baby/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/baby...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/baby/contact.html
+---
+2015/11/16 11:48:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/about.html
+---
+2015/11/16 11:48:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/services.html
+---
+2015/11/16 11:48:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/beauty/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/beau...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/beauty/contact.html
+---
+2015/11/16 11:48:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/about.html
+---
+2015/11/16 11:48:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/services.html
+---
+2015/11/16 11:48:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/family/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/fami...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/family/contact.html
+---
+2015/11/16 11:48:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/about.html
+---
+2015/11/16 11:48:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/services.html
+---
+2015/11/16 11:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/contact.html
+---
+2015/11/16 11:48:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/kids/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/kids...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/kids/about.html
+---
+2015/11/16 11:48:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/kids/services.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/kids...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/kids/services.html
+---
+2015/11/16 11:48:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/kids/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/kids...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/kids/contact.html
+---
+2015/11/17 02:09:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/about.html')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/about.html
+---
+2015/11/17 02:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/contact.ht...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/contact.html
+---
+2015/11/17 16:40:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ca/redding/food/index.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('ca/redding/food...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/ca/redding/food/index.html
+---
+2015/11/18 04:48:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "about.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('about.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('about.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/about.html')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/about.html
+---
+2015/11/18 04:48:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('contact.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('contact.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/contact.ht...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/contact.html
+---
+2015/11/18 04:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "google.com".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('google.com')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('google.com')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/google.com')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/google.com
+---
+2015/11/18 04:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('index.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('index.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.html')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/index.html
+---
+2015/11/18 04:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "projects.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('projects.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('projects.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/projects.h...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/projects.html
+---
+2015/11/18 04:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "services.html".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('services.html')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('services.html')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('site/services.h...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/site/services.html
+---
+2015/11/18 04:48:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "google.com".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('google.com')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('google.com')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/login/goog...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/user/login/google.com
+---
+2015/11/18 04:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('webPageOnFly/pa...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/webPageOnFly/pageOnShow
+---
+2015/11/18 04:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "google.com".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('google.com')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('google.com')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/basic/goog...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/user/basic/google.com
+---
+2015/11/18 04:48:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "google.com".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('google.com')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('google.com')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/forget/goo...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/user/forget/google.com
+---
+2015/11/18 13:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "google.com".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('google.com')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('google.com')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/login/goog...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/user/login/google.com
+---
+2015/11/18 13:15:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /homepages/22/d506274481/htdocs/framework/web/CController.php:483
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CController.php(270): CController->missingAction('')
+#1 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(282): CController->run('')
+#2 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('webPageOnFly/pa...')
+#3 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/webPageOnFly/pageOnShow/
+---
+2015/11/18 23:33:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/about.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/about.html')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/about.html
+---
+2015/11/18 23:33:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/contact.html".' in /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /homepages/22/d506274481/htdocs/framework/web/CWebApplication.php(141): CWebApplication->runController('user/contact.ht...')
+#1 /homepages/22/d506274481/htdocs/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /homepages/22/d506274481/htdocs/goodlynx/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/user/contact.html
+---
+2015/11/19 10:48:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2005] Unknown MySQL server host 'db511780282.db.1and1.com' (2)' in /var/www/harry/Yii/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/harry/Yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/harry/Yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/harry/Yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/harry/Yii/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /var/www/harry/Yii/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /var/www/harry/Yii/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /var/www/harry/Yii/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Deals))
+#7 /var/www/harry/Yii/framework/db/ar/CActiveRecord.php(79): CActiveRecord->getMetaData()
+#8 /var/www/harry/Yii/protected/controllers/SiteController.php(60): CActiveRecord->__construct()
+#9 /var/www/harry/Yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#10 /var/www/harry/Yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/harry/Yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/harry/Yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/harry/Yii/framework/web/CWebApplication.php(282): CController->run('')
+#14 /var/www/harry/Yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#15 /var/www/harry/Yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#16 /var/www/harry/Yii/index.php(14): CApplication->run()
+#17 {main}
+REQUEST_URI=/harry/Yii/
+---
+2015/11/20 09:35:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2005] Unknown MySQL server host 'db511780282.db.1and1.com' (2)' in /var/www/harry/Yii_Test/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/harry/Yii_Test/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/harry/Yii_Test/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/harry/Yii_Test/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /var/www/harry/Yii_Test/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /var/www/harry/Yii_Test/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /var/www/harry/Yii_Test/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Deals))
+#7 /var/www/harry/Yii_Test/framework/db/ar/CActiveRecord.php(79): CActiveRecord->getMetaData()
+#8 /var/www/harry/Yii_Test/protected/controllers/SiteController.php(60): CActiveRecord->__construct()
+#9 /var/www/harry/Yii_Test/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#10 /var/www/harry/Yii_Test/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/harry/Yii_Test/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/harry/Yii_Test/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): CController->run('')
+#14 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#15 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#16 /var/www/harry/Yii_Test/index.php(14): CApplication->run()
+#17 {main}
+REQUEST_URI=/harry/Yii_Test/
+HTTP_REFERER=http://localhost/harry/
+---
+2015/11/20 09:42:31 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:25)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (25)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 09:49:44 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:25)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (25)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 10:34:40 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:25)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (25)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 10:40:00 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:25)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (25)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 10:40:07 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:25)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (25)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 10:45:37 [error] [php] Trying to get property of non-object (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:28)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (28)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 10:45:55 [error] [php] Trying to get property of non-object (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:28)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (28)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 10:49:33 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:28)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (28)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 11:15:56 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:28)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (28)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 11:37:07 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:28)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (28)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 11:39:38 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:28)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (28)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 11:39:40 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:28)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (28)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 11:41:47 [error] [php] Trying to get property of non-object (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:06:46 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:31)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (31)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:09:33 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:13:24 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:13:25 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:13:26 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:13:49 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:20:01 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:24:00 [error] [php] Creating default object from empty value (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 12:25:51 [error] [php] Trying to get property of non-object (/var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php:36)
+Stack trace:
+#0 /var/www/harry/Yii_Test/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/harry/Yii_Test/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/harry/Yii_Test/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/harry/Yii_Test/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/harry/Yii_Test/index.php(14): CWebApplication->run()
+REQUEST_URI=/harry/Yii_Test/index.php/user/BusinessProfile
+in /var/www/harry/Yii_Test/protected/modules/user/controllers/BusinessProfileController.php (36)
+in /var/www/harry/Yii_Test/index.php (14)
+2015/11/20 22:32:53 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /var/www/html/Goodlynx/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/html/Goodlynx/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/html/Goodlynx/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/html/Goodlynx/framework/base/CApplication.php(450): CModule->getComponent('db')
+#4 /var/www/html/Goodlynx/framework/db/ar/CActiveRecord.php(634): CApplication->getDb()
+#5 /var/www/html/Goodlynx/framework/db/ar/CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#6 /var/www/html/Goodlynx/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Deals))
+#7 /var/www/html/Goodlynx/framework/db/ar/CActiveRecord.php(79): CActiveRecord->getMetaData()
+#8 /var/www/html/Goodlynx/protected/controllers/SiteController.php(60): CActiveRecord->__construct()
+#9 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#10 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#14 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#15 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#16 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#17 {main}
+REQUEST_URI=/Goodlynx/
+---
+2015/11/20 22:36:28 [error] [php] Creating default object from empty value (/var/www/html/Goodlynx/protected/modules/user/controllers/BusinessProfileController.php:34)
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/CController.php(286): BusinessProfileController->runAction()
+#1 /var/www/html/Goodlynx/framework/web/CController.php(265): BusinessProfileController->runActionWithFilters()
+#2 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): BusinessProfileController->run()
+#3 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/html/Goodlynx/index.php(14): CWebApplication->run()
+REQUEST_URI=/Goodlynx/index.php/user/BusinessProfile
+in /var/www/html/Goodlynx/protected/modules/user/controllers/BusinessProfileController.php (34)
+in /var/www/html/Goodlynx/index.php (14)
+2015/11/21 21:39:12 [error] [php] Object of class WebUser could not be converted to string (/var/www/html/Goodlynx/themes/frontend/views/layouts/main.php:77)
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): SiteController->renderFile()
+#1 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate()
+#2 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): CContentDecorator->run()
+#4 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): SiteController->endWidget()
+#5 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): SiteController->endContent()
+#6 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require()
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#8 /var/www/html/Goodlynx/framework/web/CController.php(784): SiteController->renderFile()
+#9 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): SiteController->render()
+#10 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams()
+#12 /var/www/html/Goodlynx/framework/web/CController.php(286): SiteController->runAction()
+#13 /var/www/html/Goodlynx/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#14 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): SiteController->run()
+#15 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /var/www/html/Goodlynx/index.php(14): CWebApplication->run()
+REQUEST_URI=/Goodlynx/index.php
+in /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php (77)
+in /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php (3)
+in /var/www/html/Goodlynx/protected/controllers/SiteController.php (70)
+2015/11/21 21:39:26 [error] [exception.CException] exception 'CException' with message 'Property "WebUser.email" is not defined.' in /var/www/html/Goodlynx/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/auth/CWebUser.php(146): CComponent->__get('email')
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CWebUser->__get('email')
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+HTTP_REFERER=http://localhost/Goodlynx/index.php/user/login
+---
+2015/11/21 21:48:33 [error] [exception.CException] exception 'CException' with message 'Property "WebUser.username" is not defined.' in /var/www/html/Goodlynx/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/auth/CWebUser.php(146): CComponent->__get('username')
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CWebUser->__get('username')
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+HTTP_REFERER=http://localhost/Goodlynx/index.php/user/login
+---
+2015/11/21 22:29:12 [error] [php] Trying to get property of non-object (/var/www/html/Goodlynx/themes/frontend/views/layouts/main.php:77)
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): SiteController->renderFile()
+#1 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate()
+#2 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): CContentDecorator->run()
+#4 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): SiteController->endWidget()
+#5 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): SiteController->endContent()
+#6 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require()
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#8 /var/www/html/Goodlynx/framework/web/CController.php(784): SiteController->renderFile()
+#9 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): SiteController->render()
+#10 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams()
+#12 /var/www/html/Goodlynx/framework/web/CController.php(286): SiteController->runAction()
+#13 /var/www/html/Goodlynx/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#14 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): SiteController->run()
+#15 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /var/www/html/Goodlynx/index.php(14): CWebApplication->run()
+REQUEST_URI=/Goodlynx/index.php
+in /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php (77)
+in /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php (3)
+in /var/www/html/Goodlynx/protected/controllers/SiteController.php (70)
+2015/11/21 22:35:47 [error] [exception.CException] exception 'CException' with message 'Property "WebUser.email" is not defined.' in /var/www/html/Goodlynx/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/auth/CWebUser.php(146): CComponent->__get('email')
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CWebUser->__get('email')
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+---
+2015/11/21 22:36:36 [error] [exception.CException] exception 'CException' with message 'Property "WebUser.username" is not defined.' in /var/www/html/Goodlynx/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/auth/CWebUser.php(146): CComponent->__get('username')
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CWebUser->__get('username')
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+---
+2015/11/21 22:49:35 [error] [exception.CException] exception 'CException' with message 'WebUser and its behaviors do not have a method or closure named "getEmail".' in /var/www/html/Goodlynx/framework/base/CComponent.php:266
+Stack trace:
+#0 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CComponent->__call('getEmail', Array)
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): WebUser->getEmail()
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+---
+2015/11/21 22:57:45 [error] [exception.CException] exception 'CException' with message 'WebUser and its behaviors do not have a method or closure named "getEmail".' in /var/www/html/Goodlynx/framework/base/CComponent.php:266
+Stack trace:
+#0 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CComponent->__call('getEmail', Array)
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): WebUser->getEmail()
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+---
+2015/11/21 23:01:38 [error] [exception.CException] exception 'CException' with message 'WebUser and its behaviors do not have a method or closure named "getEmail".' in /var/www/html/Goodlynx/framework/base/CComponent.php:266
+Stack trace:
+#0 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CComponent->__call('getEmail', Array)
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): WebUser->getEmail()
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+---
+2015/11/21 23:02:14 [error] [exception.CException] exception 'CException' with message 'WebUser and its behaviors do not have a method or closure named "getEmail".' in /var/www/html/Goodlynx/framework/base/CComponent.php:266
+Stack trace:
+#0 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CComponent->__call('getEmail', Array)
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): WebUser->getEmail()
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+---
+2015/11/21 23:02:38 [error] [exception.CException] exception 'CException' with message 'Property "WebUser.getEmail" is not defined.' in /var/www/html/Goodlynx/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/html/Goodlynx/framework/web/auth/CWebUser.php(146): CComponent->__get('getEmail')
+#1 /var/www/html/Goodlynx/themes/frontend/views/layouts/main.php(77): CWebUser->__get('getEmail')
+#2 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#3 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#4 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#5 /var/www/html/Goodlynx/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('???<div id="fea...')
+#6 /var/www/html/Goodlynx/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('???<div id="fea...')
+#7 /var/www/html/Goodlynx/framework/web/CBaseController.php(206): COutputProcessor->run()
+#8 /var/www/html/Goodlynx/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#9 /var/www/html/Goodlynx/themes/frontend/views/layouts/column1.php(3): CBaseController->endContent()
+#10 /var/www/html/Goodlynx/framework/web/CBaseController.php(126): require('/var/www/html/G...')
+#11 /var/www/html/Goodlynx/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/G...', Array, true)
+#12 /var/www/html/Goodlynx/framework/web/CController.php(784): CBaseController->renderFile('/var/www/html/G...', Array, true)
+#13 /var/www/html/Goodlynx/protected/controllers/SiteController.php(70): CController->render('index', Array)
+#14 /var/www/html/Goodlynx/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#15 /var/www/html/Goodlynx/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/Goodlynx/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/Goodlynx/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /var/www/html/Goodlynx/framework/web/CWebApplication.php(282): CController->run('')
+#19 /var/www/html/Goodlynx/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#20 /var/www/html/Goodlynx/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#21 /var/www/html/Goodlynx/index.php(14): CApplication->run()
+#22 {main}
+REQUEST_URI=/Goodlynx/index.php
+---

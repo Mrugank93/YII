@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    background: url(http://api.thumbr.it/whitenoise-361x370.png?background=4ea6caff&noise=626262&density=15&opacity=15);
+    height: 100%
+}
+
+#backgroundDiv {
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
+
+#overlayDiv {
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    margin: 10% auto;
+    padding: 2%;
+    color: #0DB1CE
+    border: solid 2px #0DB1CE;
+    border-radius: 10px;
+    font-size: 16pt;
+}
+
+#closeButton {
+    width: 32px;
+    height: 32px;
+    background: url('close_button.png');
+    position: relative;
+    left: 308px;
+    top: -40px;
+}
+
+.teal {
+    color: #0DB1CE;
+}
+
+.icon {
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 30px;
+}
+
+.input {
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    border: solid 1px gray;
+}
+
+.hidden-error {
+	display: none;
+}
+
+.show-error {
+	color: red;
+	display: block;
+}

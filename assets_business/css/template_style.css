@@ -1,0 +1,242 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #fff;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+a {
+	color: #454F58;
+}
+
+a:visited {
+	color: #313B44;
+}
+.clear{clear:both;height: 0}
+
+#template_wrapper {
+	position: relative;
+	top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	background-color: #282828;
+	border-radius: 10px;
+}
+
+#template_header {
+	height: 100px;
+	padding-bottom: 20px;
+}
+
+#template_title {
+	position: relative;
+	top: 25px;
+	left: 25px;
+    width: 95%;
+    height: 55px;
+    border: none;
+}
+
+ul#template_bread_crumb_menu {
+    color: #C8C8C8;
+    font-size: 14px;
+    left: 35px;
+    position: relative;
+    top: 11px;
+}
+
+ul#template_bread_crumb_menu li a {
+    color: #C8C8C8;
+    text-decoration: none;
+}
+#template_headerImage {
+    border: medium none;
+    float: none;
+    height: 191px;
+    margin: 0;
+    width: 100%;
+}
+#template_headerImage img {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#template_content {
+	padding-top: 50px;
+	padding-bottom: 10px;
+	height: 200px;
+}
+
+#template_spacer {
+	width: 100%;
+	height: 50px;
+	/* Safari 4+ */
+	background-image: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#40566D), to(#749BAC));
+	/* Safari 5.1+, Chrome 10+ */
+	background-image: -webkit-linear-gradient(left, #40566D, #749BAC);
+	/* Firefox 3.6+ */
+	background-image: -moz-linear-gradient(left, #40566D, #749BAC);
+	/* IE 10+ */
+	background-image: -ms-linear-gradient(left, #40566D, #749BAC);
+	/* Opera 11.10+ */
+	background-image: -o-linear-gradient(left, #40566D, #749BAC);
+}
+
+#template_footer {
+	height: 300px;
+	padding: 40px 5px 5px 5px;
+}
+
+#template_map {
+	float: left;
+    height: 250px !important;
+}
+
+#template_attribution {
+	text-align: center;
+	clear: both;
+}
+
+#template_contact {
+	float: right;
+    height: 250px !important;
+	text-align: right;
+}
+
+.template_blue {
+	color: #668A9A;
+}
+
+.mosaic-backdrop span
+{
+    color: #ffffff;
+}
+
+.mosaic-backdrop h2
+{
+    color: #ffffff;
+}
+
+.mosaic-backdrop h2 .some
+{
+    color: #ffffff;
+}
+
+.mosaic-backdrop h1
+{
+    color: #ffffff;
+}
+.template_bread_crumb {
+	display: inline-block;
+	list-style-type: none;
+}
+
+.row {
+    display: inline-block;
+    height: inherit !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    width: 220px !important;
+}
+
+.border_right {
+	border-right: solid 1px #353535;
+}
+
+.read_more {
+	color: #fff;
+	/* Safari 4+ */
+	background-image: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#222222), to(#4F4F4F));
+	/* Safari 5.1+, Chrome 10+ */
+	background-image: -webkit-linear-gradient(bottom, #222222, #4F4F4F);
+	/* Firefox 3.6+ */
+	background-image: -moz-linear-gradient(bottom, #222222, #4F4F4F);
+	/* IE 10+ */
+	background-image: -ms-linear-gradient(bottom, #222222, #4F4F4F);
+	/* Opera 11.10+ */
+	background-image: -o-linear-gradient(bottom, #222222, #4F4F4F);
+	font-weight: 600;
+	padding: 2.5px 5px 2.5px 5px;
+	border-radius: 5px;
+	border: 1px solid #000;
+}
+
+/************
+Edit
+*************/
+.edit:hover{background: #DFEAEC; opacity: 0.8;}
+
+
+/*
+	Mosaic - Sliding Boxes and Captions jQuery Plugin
+	Version 1.0.1
+	www.buildinternet.com/project/mosaic
+
+	By Sam Dunn / One Mighty Roar (www.onemightyroar.com)
+	Released under MIT License / GPL License
+*/
+
+* {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:none;
+}
+
+/*General Mosaic Styles*/
+.mosaic-block {
+    float:left;
+    position:relative;
+    overflow:hidden;
+    width:400px;
+    height:250px;
+    margin:10px;
+    background:#111 url(../images/progress.gif) no-repeat center center;
+    -webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+}
+
+.mosaic-backdrop {
+    display:none;
+    position:absolute;
+    top:0;
+    height:100%;
+    width:100%;
+    background:#282828;
+}
+
+.mosaic-overlay {
+    display:none;
+    z-index:5;
+    position:absolute;
+    width:100%;
+    height:100%;
+    background:#111;
+}
+
+/*** Custom Animation Styles (You can remove/add any styles below) ***/
+
+.bar .mosaic-overlay {
+    bottom:-51px;
+    height:50px;
+    background:url(../images/bg-black.png);
+}
+
+.bar a{
+    color: #FFFFFF;
+    float: right;
+    font-size: 25px;
+    margin-right: 37px;
+    text-decoration: none;
+}
+.bar a:hover{
+    text-decoration: underline;
+}
+
+
+/*** End Animation Styles ***/
