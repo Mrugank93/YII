@@ -9,7 +9,10 @@ class UserIdentity extends CUserIdentity
 {
 	private $_id;
     private $_name;
+<<<<<<< HEAD
     // private $_email;
+=======
+>>>>>>> ef10722fc10fc208fcda00dd59259e37fbfcd11b
 	const ERROR_EMAIL_INVALID=3;
 	const ERROR_STATUS_NOTACTIV=4;
 	const ERROR_STATUS_BAN=5;
@@ -48,9 +51,13 @@ class UserIdentity extends CUserIdentity
                 $this->setState('state_id',$user->userDetails->state_id);
                 $this->setState('city_id',$user->userDetails->city_id);
 
+<<<<<<< HEAD
                 // $this->_name=$user->userDetails->first_name;
    			   $this->_name=$user->email;
    
+=======
+                $this->_name=$user->userDetails->first_name;
+>>>>>>> ef10722fc10fc208fcda00dd59259e37fbfcd11b
             }
             else if($user->user_type_id==7)
             {
@@ -58,9 +65,13 @@ class UserIdentity extends CUserIdentity
                 $this->setState('city_id',$user->businessOwnerDetails->city_id);
 
                 $this->_name=$user->businessOwnerDetails->business_profile_name;
+<<<<<<< HEAD
                 // $this->_email = $user->email;
  				$this->_name=$user->email;
    
+=======
+
+>>>>>>> ef10722fc10fc208fcda00dd59259e37fbfcd11b
             }
 
 		}
@@ -81,8 +92,11 @@ class UserIdentity extends CUserIdentity
     {
         return $this->_name;
     }
+<<<<<<< HEAD
     // public function getEmail()
     // {
     //     return $this->_email;
     // }
+=======
+>>>>>>> ef10722fc10fc208fcda00dd59259e37fbfcd11b
 }

@@ -118,7 +118,6 @@ return array(
             'schemaCachingDuration' => 3600,
             'username' => 'root',
             'password' => 'root',
-            'charset' => 'utf8',
         ),
         'errorHandler'=>array(
             // use 'site/error' action to display errors
